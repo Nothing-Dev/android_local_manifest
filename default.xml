@@ -4,6 +4,11 @@
            fetch=".."
            review=".." />
            
+            <default revision="refs/heads/cm-11.0"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+           
     <project path="frameworks/native" name="legaCyMod/android_frameworks_native" revision="cm-11.0" />
     <project path="frameworks/av" name="legaCyMod/android_frameworks_av" revision="cm-11.0" />
 
