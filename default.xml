@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="github"
            fetch=".."
-           review="review.cyanogenmod.org" />
+           review=".." />
            
     <project path="frameworks/native" name="legaCyMod/android_frameworks_native" revision="cm-11.0" />
     <project path="frameworks/av" name="legaCyMod/android_frameworks_av" revision="cm-11.0" />
